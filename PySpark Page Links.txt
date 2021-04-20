@@ -1,0 +1,8 @@
+All About PySpark:-
+https://www.tutorialspoint.com/pyspark/pyspark_quick_guide.htm
+
+pyspark tutorial for beginners | from the Basic | Complete Tutorials:-
+https://www.youtube.com/playlist?list=PLlUZLZydkS7_8WnK8fMENmJFSfPwxw9Fi
+
+Spark with Python (PySpark) Tutorial For Beginners:-
+https://sparkbyexamples.com/pyspark-tutorial/
